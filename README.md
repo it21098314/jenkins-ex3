@@ -1,2 +1,2 @@
 # jenkins-ex3
-https://github.com/it21098314/jenkins-ex3.git
+<a href='http://54.153.9.235:8080/job/ex3/'><img src='http://54.153.9.235:8080/buildStatus/icon?job=ex3'></a>
